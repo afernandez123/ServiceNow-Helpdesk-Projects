@@ -1,6 +1,14 @@
-# ServiceNow - Sample Helpdesk Ticket Creation
+# ServiceNow - Helpdesk Ticket Management 🚑
 
-This project demonstrates a full ticket creation workflow in ServiceNow.
+[![Platform](https://img.shields.io/badge/Platform-ServiceNow-lightgrey?logo=servicenow)](https://developer.servicenow.com)
+[![Category](https://img.shields.io/badge/Category-Helpdesk-blue)]()
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
+[![Language](https://img.shields.io/badge/Language-None-white)]()
+
+---
+
+##  Description
+This project demonstrates basic ticket creation inside ServiceNow...
 
 ## Ticket Details
 - **Issue:** User unable to connect to corporate Wi-Fi network
